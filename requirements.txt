@@ -10,4 +10,5 @@ dill
 pyaml
 
 
--e .
+
+##-e .
